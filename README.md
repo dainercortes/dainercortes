@@ -5,7 +5,7 @@ Soy **Dainer Cortés** 🧑‍💻, cuento con conocimientos en **C#** y  **dise
 <br/>
 
 <div align="center" style="display:inline-block;">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" height="100" />
+<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" height="150" />
   
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi2G3ZdAURN_DQMuRSfvCr37bzf0XmaIbvZf04-OQMquBeI9cjnJ-r-UB3ToLwGhFO5MUS8gHtDCEwAY9AMkupOaZ0IA80W-NvpchTJdm6cgPdJpwSd9jV2YPVLBJkUoywSGmvgfImu3qdTTYQ5krWaCM_pR2A7ot1S_u6TTAoSmTxPxTB3q86yAm_/s900/sql.png" alt="SQL" height="100"/>
 
