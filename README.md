@@ -1,16 +1,26 @@
-### Hi there 👋
+### Acerca de
 
-<!--
-**dainercortes/dainercortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante de Ingeniería de Sistemas altamente motivado y apasionado por la tecnología y la resolución de problemas. Poseo conocimientos en `POO`, `C#` , `Java`, bases de datos con `MySQL`. Estoy buscando adquirir experiencia en el campo de las tecnologías de la información para aplicar mis conocimientos teóricos en situaciones del mundo real y contribuir al crecimiento de una empresa innovadora.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```C#
+namespace DainerCortes
+{
+    internal class Programmer
+    {
+        private bool aweke { get; set; }
+		
+        public string IsProgram()
+        {
+            if(aweke)
+            {
+                return "I am programming";
+            }
+            else
+            {
+                return "I'm dreaming as I program";
+            }
+        }
+    }
+}
+```
