@@ -7,12 +7,10 @@ Soy un estudiante de Ingeniería de Sistemas altamente motivado y apasionado por
 namespace DainerCortes
 {
     internal class Programmer
-    {
-        private bool aweke { get; set; }
-		
-        public string IsProgram()
+    {		
+        public string IsProgram(bool awake)
         {
-            if(aweke)
+            if(awake)
             {
                 return "I am programming";
             }
