@@ -45,8 +45,8 @@ Soy un estudiante de Ingeniería de Sistemas altamente motivado y apasionado por
 <div>
     <img width='60px' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg'>
     <img width='60px'src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoN-q3XQxWfwYaWXNnotYly3DheMkQ_7w65ktNJK3GoBWzhyHKXWft2wzqCKkrqr7jXmIZ186e0e9aVS0t2CyTD7GfyGfsfxX7OQrmqoT4Bdm3WQP3_q-B72ZirTupHnLxW5UVN7wtZsLbfxZch4g4B1Y1HdVRc27vPrmDouENUgy4aBDGR3-x1R9iGkE/w200-h187/264-2648074_eclipse-png.png'>
-    <img width='50px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png'>    
     <img width='60px' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg'>
+    <img width='50px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png'>    
 </div>
 
 <br/>
