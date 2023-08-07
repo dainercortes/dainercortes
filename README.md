@@ -1,4 +1,4 @@
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj97Vkc_DRM49R2m1XVjN9Wt87k4f878A0GYebpnPtfiNC09VAMjzz7Vb8-4VTfx6pCL94pkROZIWblcKOC0ObVWWca--3z8ljKIuva1vPQh8uJUY2wjlhCFT6XI6isfBLIZx-cq9UIFTk_4KyOLBGeH6h6uifk_KXjR2PUIpWNm5f7R6m2U06mOjiH3kI/s16000/Banner%20para%20Linkedin%20Analista%20Sistemas%20Moderno%20Negro.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8DHg0f27ty6aI-gh6498INS7we21kb5rYwnjNposcgyiITonOWXk36usc7bT8ns8wyyaH9zfllvZpyA-JZ1myFsgBCCU6wiuxdgrZenQ9nXltublf3hH1EQiwwnhWB_xuFYHNppk7_SnQiaqNozN_6w6AobxV8aa8lWq7jdHYTFewYgcnTtgy56AFT1w/s16000/Banner%20para%20Linkedin%20Analista%20Sistemas%20Moderno%20Negro%20(1).png)
 
 ### Sobre mí:
 
