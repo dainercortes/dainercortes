@@ -57,7 +57,7 @@ package DainerCortes;
 
 public class Programmer {
 
-    public String IsProgram(boolean awake) {
+    public String isProgram(boolean awake) {
 
         return awake ? "I am programming" : "I'm dreaming as I program";
     }
