@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Dainer Cortés</a> 👋</h1>
 </div>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIAykaQXfaUXGr00BJK58TdkTMfgfB7MyMnokGhNcsK6hK1AG-ymBdYCOMYJ2Yu2_5DUC_1QoiuFak6RtriHfPaYZfxD2LXabA-4MjGQw3egJL0N8uuGu1qjW88kYTJX08d1-fz4IsmQWcN4Yj-A0k05iiUIfVkKPD4xpVb5apCqsacENLk1WxyeUwaiM/s16000/Banner%20para%20Linkedin%20Analista%20Sistemas%20Moderno%20Negro%20(2).png"/>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaSZkqosu7r5tyX6aB_zcmXkZtVZJE24gssX0E-jo3pVGx-Xr1JIZBRVAf8q5Jp2OqIoaUV4bQO7kkUgKJ9ga3UjGy7YszDjlCQy6JEKYDFKwzQl8Elgh59mdgUC1Ne9OUivdyOjYJU8h8rwjA5g7AQ_jB8aKvXJQpPjIDe1_PsD2wVbNlnPj4_EDOXRU/s16000/Banner%20para%20Linkedin%20Analista%20Sistemas%20Moderno%20Negro.gif"/>
 
  [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dainercortes/)
 [![General badge](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eFvQM7t9)
