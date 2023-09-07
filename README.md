@@ -63,18 +63,18 @@ public class Programmer {
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Calculadora</h3>
+<h3 align="center">Hotel Alura</h3>
 <div align="center">
-<a href="https://github.com/dainercortes/Calculadora_Java" target="_blank"><img src="https://camo.githubusercontent.com/1b5b93a627587c9b1e57cea9abc1e1682be844b3360f944bd11143a81c5a6faf/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578656e4d784e57673563586f33597a67795a7a52715a4763325a326f33656d6c7663585634615846305a44426b616e56715a48566861535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f3576414161705153474f6571574b644a6a792f67697068792e676966" height="300" width="auto" alt="Calculadora"></a>
+<a href="https://github.com/dainercortes/challenge-one-alura-hotel-latam" target="_blank"><img src="https://camo.githubusercontent.com/a3f60d2144c4e4cc5f27d41a3d4802039c066b12b7da6aff08be66f49252632c/68747470733a2f2f692e696d6775722e636f6d2f4e5972556a41562e706e67" height="300" width="auto" alt="Calculadora"></a>
 <p>
-<a href="https://github.com/dainercortes/Calculadora_Java" target="_blank">
+<a href="https://github.com/dainercortes/challenge-one-alura-hotel-latam" target="_blank">
 <img src="https://img.shields.io/badge/Repositorio-blue?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/posts/dainercortes_he-realizado-este-proyecto-en-java-con-activity-7093820717774823424-hnmj?utm_source=share&utm_medium=member_desktop" target="_blank">
+<a href="https://www.linkedin.com/posts/dainercortes_challengeonehotelaluralatam5-oraclenexteducation-activity-7105317499541299200-y9Ar?utm_source=share&utm_medium=member_desktop" target="_blank">
 <img src="https://img.shields.io/badge/-Video-green?style=for-the-badge&color=blue">
 </a>
 </p>
-<p>Este proyecto se desarrolló utilizando el lenguaje Java y consiste en una aplicación de escritorio diseñada para simular las operaciones fundamentales de una calculadora. Además, ofrece la flexibilidad de alternar entre los modos Claro y Oscuro, proporcionando una experiencia visual adaptada a las preferencias del usuario.</p>
+<p>El Hotel Alura conocido por su espectaculares instalaciones y paquetes promocionales para Desarrolladores de Software implemento un sistema de escritorio con conexión a base de datos con el fin de llevar el control de las reservas hechas por sus clientes. El cual fue desarrollado en Java utilizando Maven para gestionar dependencias y Java Swing para diseñar las ventanas.</p>
 </div>
                                                                                       
 </td>
