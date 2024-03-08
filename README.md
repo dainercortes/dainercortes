@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Dainer Cortés</a> 👋</h1>
 </div>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig2gp9BNi1siG_5_Jk7Ai1SRwrf6HrPTh7S1PlOKApL5ZunFey1bk0gXpP4V6VBJkLFJiKxkTtnEUZE_ds8trl-zv1Ziarroao3PTK0M8JsDii-3DhiGeh3gWHLlvNYwWHQVHFI7fqHMUoqlSe-YdvsWYaCWlf2wOVQEkR_Q6ArFCc9zRZcW3ZJtCUEAo/s946/bannergithub.gif"/>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUEqUAEJvilo0D8J1jhXIbuhryhXkAZ5USmucjALllbr2KJj9-LGLPf6E9-Ts2OPn-JNBMySjId5xykXfloxhKEDgwY15yOQceY_avb3c8z0JzlenPXiPkv0_LA33rVSZpT8Kcj8wKs6uYjt4bpNie7T7hi0DmPCaQb9qA5TFJy74gI8C-eh1bR2a1-Qk/s2000/bannergithub.gif"/>
 
  [![General badge](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=badge&logoColor=black)](https://dainercortes.com/)
  [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dainercortes/)
