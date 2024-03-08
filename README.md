@@ -60,43 +60,7 @@ public class Programmer {
 }
 ```
 
-<br/>
-
-## Repositorios Destacados
-
-<table>
-<td width="50%">
-<h3 align="center">Reto Oracle y Alura Latam: API Foro Alura</h3>
-<div align="center">
-<a href="https://github.com/dainercortes/challenge-one-foro-alura" target="_blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfdn7E67BLpY_7EiGaff2otBm-_hF6zWJFIAwBNf1dBQYAF2AvRFXAQM2kPS7uh3ORbUwYnPGFwtZYQluZvMM6tuPU4PFCqwtHXM9Y2gJsxyO9kyCYcBTRpSOfj0Rccn3g0G0ch5IcArmbR8uAq0Wml79OdDOvvEwRlgrZWwKIsDFi1wf13VvbS0l6xqI/s1200/20221024_635708381cc8e.jpg" height="300" width="auto" alt="Foro Alura"></a>
-<p>
-<a href="https://github.com/dainercortes/challenge-one-foro-alura" target="_blank">
-<img src="https://img.shields.io/badge/Repositorio-blue?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</a>
-</p>
-<p>El foro alura es una API REST lugar donde todos los estudiantes registrados pueden colocar sus preguntas sobre determinados cursos, compartir sus opiniones y lograr el aprendizaje y de colaboración entre alumnos, profesores y moderadores.</p>
-</div>
-                                                                                      
-</td>
-
-
- 
-<td width="50%">
-<h3 align="center">Reto Oracle y Alura Latam: Hotel Alura</h3>
-<div align="center">
-<a href="https://github.com/dainercortes/challenge-one-alura-hotel-latam" target="_blank"><img src="https://camo.githubusercontent.com/4d30de5e9a0076842090aa1ee560a6167caefc4e154b2cca1208b509b0af1d35/68747470733a2f2f692e696d6775722e636f6d2f4e5972556a41562e706e67" height="300" width="auto" alt="Hotel Alura"></a>
-<p>
-<a href="https://github.com/dainercortes/challenge-one-alura-hotel-latam" target="_blank">
-<img src="https://img.shields.io/badge/Repositorio-blue?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</a>
-</p>
-<p>Implementación de un sistema de escritorio con conexión a base de datos con el fin de llevar el control de las reservas hechas por sus clientes. El cual fue desarrollado en Java utilizando Maven para gestionar dependencias y Java Swing para diseñar las ventanas.</p>
-</div>
-                                                                                      
-</td>                                                
-</table>                                                                                 
+<br/>                                                                         
 </div>
 <br>
 
